@@ -1,15 +1,12 @@
-title: Abhishek Nagekar
+title: Zhuotao Wang
 description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
+email: zhuotao26@outlook.com
 keybase_username: abhn
 twitter_username: abhn_
 reddit_username: abhn
